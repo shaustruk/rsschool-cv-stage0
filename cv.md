@@ -1,7 +1,8 @@
-#CV
+# CV
 
 
-*Katsiaryna Shaustruk*
+*Katsiaryna Shaustruk*     
+===============
 
 
 *Contacts:*          
