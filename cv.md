@@ -59,6 +59,13 @@ I always improve my English
                        
 *Example code:*                     
 ---------------
+function calcSum (numFirst, numSecond) {  
+console.log (`First number: ${numFirst}`);    
+console.log (`Second number: ${numSecond}`);    
+let numSum = numFirst + numSecond;      
+console.log (`Sum = ${numSum}`);}     
+calcSum (1, 2);      
+
 
 
 
