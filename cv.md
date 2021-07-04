@@ -28,7 +28,6 @@ So I shure it will make my feel happy so I do all my best and work like a horse.
                                             
 I worked in a shop by a big trading company, also I worked as an acoountant in a public enterprise.
 I have no experience on IT but I absolutely love this direction. 
-I know that 
 
                                                            
 
@@ -48,12 +47,12 @@ speciality - engineer-economist
 *Soft skills:*                  
 ---------------
 
-communication
-self-motivation
-responsibility
-teamwork
-bility to work under pressure
-flexibility
+communication                                         
+self-motivation                                 
+responsibility                                 
+teamwork                                
+bility to work under pressure                             
+flexibility                           
 
 *Hard skills:*
 ---------------
