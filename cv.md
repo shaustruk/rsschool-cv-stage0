@@ -4,39 +4,34 @@
 *Katsiaryna Shaustruk*     
 ===============
 
-
 *Contacts:*          
 ---------------                               
 
-tel.    +375 29 111 66 79
-e-mail  statsevich22@gmail.com                                                                                   
-
+tel.    +375 29 111 66 79   
+e-mail  statsevich22@gmail.com                                                                                       
 
 *About myself:*       
 ---------------
 
 I'm 33 years old.
-I come from Bobruisk and I live in Bobruisk now.  
-I am a big fan of study so I like getting new information and improving 
-my soft and hard skills. I really like to solve difficult tasks.
-I am an accountant but I want to work as a frontend-developer. 
-So I shure it will make my feel happy so I do all my best and work like a horse.
+I come from Bobruisk and I live in Bobruisk now.    
+I am a big fan of study so I like getting new information and improving   
+my soft and hard skills. I really like to solve difficult tasks.  
+I am an accountant but I want to work as a frontend-developer.   
+So I shure it will make my feel happy so I do all my best and work like a horse.  
  
-
-*Experience:*                      
+*Experience:*                        
 ---------------               
                                             
-I worked in a shop by a big trading company, also I worked as an acoountant in a public enterprise.
-I have no experience on IT but I absolutely love this direction. 
+I worked in a shop by a big trading company, also I worked as an acoountant in a public enterprise.  
+I have no experience on IT but I absolutely love this direction.   
+                                                        
+*Education:*                                                 
+--------------- 
 
-                                                           
-
-*Education:*                                                
----------------
-
-*2005-2008*
-Bobruisk agriculture-economic college
-speciality - acountant      
+*2005-2008* 
+Bobruisk agriculture-economic college 
+speciality - acountant       
           
 *2008-2014*                    
 Belorusian State University Of Informatics and Radioelectronics                                        
@@ -44,24 +39,15 @@ Faculty of Engineering and Economicsenter Center for the Development of Distance
 speciality - engineer-economist              
 
 
-*Soft skills:*                  
----------------
+*Soft skills:*                         *Hard skills:*
+---------------                        --------------- 
 
-communication                                         
-self-motivation                                 
-responsibility                                 
-teamwork                                
-bility to work under pressure                             
-flexibility                           
-
-*Hard skills:*
----------------
-
-HTML                  
-CSS                       
-JS (basic)    
-Git (basic)  
-
+- communication                       - HTML                                  
+- self-motivation                     - CSS                 
+- responsibility                      - JS (basic)               
+- teamwork                            - Git (basic)        
+- bility to work under pressure                                 
+- flexibility                                  
 
 *English Level:*                     
 ---------------
