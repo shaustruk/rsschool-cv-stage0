@@ -15,18 +15,21 @@ e-mail  statsevich22@gmail.com
 *About myself:*       
 ---------------
 
-from Bobruisk and I live in Bobruisk now. 
+I'm 33 years old.
+I come from Bobruisk and I live in Bobruisk now.  
 I am a big fan of study so I like getting new information and improving 
 my soft and hard skills. I really like to solve difficult tasks.
-I am an accountant but I want to be a frontend-developer. So I shure it will make my feel happy.
+I am an accountant but I want to work as a frontend-developer. 
+So I shure it will make my feel happy so I do all my best and work like a horse.
  
-
 
 *Experience:*                      
 ---------------               
                                             
-I worked in a shop by big trading company, also I worked as an acoountant in a public enterprise.
-I have no work experience in IT but I do all my best. 
+I worked in a shop by a big trading company, also I worked as an acoountant in a public enterprise.
+I have no experience on IT but I absolutely love this direction. 
+I know that 
+
                                                            
 
 *Education:*                                                
@@ -42,12 +45,23 @@ Faculty of Engineering and Economicsenter Center for the Development of Distance
 speciality - engineer-economist              
 
 
-*Skills:*                  
+*Soft skills:*                  
 ---------------
 
-HTML               
-CSS                     
-JS (basic)                 
+communication
+self-motivation
+responsibility
+teamwork
+bility to work under pressure
+flexibility
+
+*Hard skills:*
+---------------
+
+HTML                  
+CSS                       
+JS (basic)    
+Git (basic)  
 
 
 *English Level:*                     
