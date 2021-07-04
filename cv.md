@@ -6,8 +6,8 @@
 
 *Contacts:*          
 ---------------                               
-<tel.    +375 29 111 66 79>   
-<e-mail  statsevich22@gmail.com>                                                                                       
+tel.    +375 29 111 66 79    
+e-mail  statsevich22@gmail.com                                                                                            
 
 *About myself:*       
 ---------------
@@ -27,8 +27,8 @@ I have no experience on IT but I absolutely love this direction and I join on th
 --------------- 
 
 - *2005-2008* 
-Bobruisk agriculture-economic college 
-speciality - acountant       
+Bobruisk agriculture-economic college       
+speciality - acountant         
           
 - *2008-2014*                    
 Belorusian State University Of Informatics and Radioelectronics                                        
