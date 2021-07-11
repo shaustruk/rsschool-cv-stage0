@@ -1,3 +1,4 @@
+rsschool-cv-html
 
 *{
 	padding: 0;
@@ -250,4 +251,258 @@ time {
     font-size: 40px;
     font-weight: 400;
     color: #1D282B; 
+
+
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+/*--------------------*/
+html {
+    scroll-behavior: smooth;
+}
+body {
+    min-width: 1440px;
+    height: 1800px;
+     
+}
+    
+header {
+    width: 1200px;
+    height: 450px;
+    padding-top: 1px;
+    margin: 0 auto;
+    background: #A6ADB5 url("./image/bgr.jpg") center/cover no-repeat;
+}
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.label {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.photo {
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 15px solid  #C7D4E5;
+    box-shadow: 0 0 0 15px  #A6ADB5;
+              
+}
+
+.description {
+    align-self: center;
+    color: #1D282B; 
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-family: 'Merienda', cursive;
+    font-size: 50px;
+    font-weight: 700;
+    }
+
+h2,
+h3 {
+    margin-bottom: 20px;
+    font-family: 'Merienda', cursive;
+    font-size: 40px;
+    font-weight: 400;
+    color: #1D282B; 
+}
+/*скрытие заголовков утилитарным способом*/
+h4 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+h2::before {
+    content: '';
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    margin: 0 10px 0 10px;
+    background-color: lightcyan;
+    border-radius: 50%;
+    
+}
+
+main {
+
+    width: 1200px;
+    margin: 0 auto;
+    background: linear-gradient(175deg, rgba(248,248,250,1) 0%, rgba(165,171,189,0.5746673669467788) 100%, rgba(223,239,240,1) 100%);
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: #1D282B;
+    
+}
+
+.list_left,
+.list_right  {
+    width: 550px;
+}
+
+.list h2 {
+    width: 400px;
+    margin-bottom: 20px;
+    padding: 5px;
+    background-color: slategrey;
+    border-radius: 20px;
+
+}
+
+section {
+    text-align: justify;
+    margin-bottom: 40px;
+         
+}
+
+.list p {
+    text-indent: 25px;
+}
+
+details {
+    margin-bottom: 20px;
+}
+
+details:last-child {
+    margin-bottom: 40px;
+}
+
+mark {
+    border-radius: 20px;
+    background-color:lightsteelblue;
+
+}
+
+.skills-item1::before {
+    content: url('./image/hand_like_good_icon_185938.png');
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.skills-item2::before {
+    content: url('./image/notebook_computer_laptop_icon_185946.png');
+    margin-right: 5px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+li::before {
+    content: '';
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin: 0 10px 5px 10px;
+    border-radius: 50%;
+    background-color: #1D282B;
+    
+}
+
+.link {
+    display: block;
+    color: #1D282B; 
+}
+
+.link::before {
+    content: '';
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin: 0 10px 5px 10px;
+    background-color: #1D282B;
+    border-radius: 50%;
+  
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+.contact {
+   /* display: block;*/
+    color: #1D282B;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    width: 1200px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #74949F;
+}
+
+.link_github,
+.link_stage0,
+time {
+    display: block;
+    align-self: center;
+   
+}
+ 
+.logo {
+    height: 50px;
+}
+
+time {
+    font-family: 'Merienda', cursive;
+    font-size: 40px;
+    font-weight: 400;
+    color: #1D282B; 
+ gh-pages
 }
