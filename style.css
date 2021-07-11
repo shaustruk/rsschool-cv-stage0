@@ -42,6 +42,7 @@ html {
 }
 body {
     min-width: 1440px;
+    height: 1800px;
      
 }
     
@@ -96,14 +97,18 @@ h3 {
     font-weight: 400;
     color: #1D282B; 
 }
+h4 {
+    display: none;
+}
 h2::before {
     content: '';
-    border-radius: 50%;
+    display: inline-block;
     margin: 0 10px 0 10px;
     height: 30px;
     width: 30px;
     background-color: lightcyan;
-    display: inline-block;
+    border-radius: 50%;
+    
 
 }
 
@@ -123,26 +128,29 @@ main {
     
 }
 
-.left,
-.right  {
+.list_left,
+.list_right  {
     width: 550px;
 }
 
 .list h2 {
     width: 400px;
     margin-bottom: 20px;
+    padding: 5px;
     background-color: slategrey;
     border-radius: 20px;
 
 }
 
-.list p {
+section {
     margin-bottom: 40px;
     text-align: justify;
-    text-indent: 25px;
-    
+      
 }
 
+.list p {
+    text-indent: 25px;
+}
 details {
     margin-bottom: 20px;
 }
@@ -160,6 +168,7 @@ mark {
 .skills-item1::before {
     content: url('./image/hand_like_good_icon_185938.png');
     margin-right: 5px;
+    margin-bottom: 10px;
 }
 
 .skills-item2::before {
@@ -172,12 +181,13 @@ li {
 }
 li::before {
     content: '';
-    border-radius: 50%;
-    margin: 0 10px 0 10px;
+    display: inline-block;
+    margin: 0 10px 5px 10px;
     height: 10px;
     width: 10px;
+    border-radius: 50%;
     background-color: #1D282B;
-    display: inline-block;
+    
 }
 
 .link {
@@ -186,8 +196,14 @@ li::before {
 }
 
 .link::before {
-    content: url('./image/book_icon_185961.png');
-    
+    content: '';
+    display: inline-block;
+    margin: 0 10px 5px 10px;
+    height: 10px;
+    width: 10px;
+    background-color: #1D282B;
+    border-radius: 50%;
+  
 }
 
 ul {
